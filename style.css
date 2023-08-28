@@ -2,6 +2,9 @@ body{
     background-color: antiquewhite ;
 
 }
+h2 {
+    color:#07294d;
+}
 
 header nav ul li{
     display: inline;
