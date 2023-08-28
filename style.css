@@ -1,6 +1,9 @@
 body{
-    background-color: antiquewhite ;
+    background-color: rgb(255, 255, 255) ;
 
+}
+h2 {
+    color:#07294d;
 }
 
 header nav ul li{
