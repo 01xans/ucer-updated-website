@@ -3,3 +3,11 @@ body{
 
 }
 
+header nav ul li{
+    display: inline;
+    padding: 20px;
+}
+
+header nav{
+    background-color: white;
+}
