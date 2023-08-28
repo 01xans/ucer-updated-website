@@ -11,3 +11,9 @@ header nav ul li{
 header nav{
     background-color: white;
 }
+
+
+header div ul li{
+    display: inline;
+    
+}
